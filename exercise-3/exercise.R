@@ -2,19 +2,35 @@
 
 # Create a variable `my.name` that contains your name
 
+<<<<<<< HEAD
 my.name <- "Derrick";
 # Create a variable `name.length` that holds how many letters are in your name (use the `nchars()` function)
 name.length = 7;
 
 # Print the number of letters in your name
+=======
+
+# Create a variable `name.length` that holds how many letters are in your name (use the `nchar()` function)
+
+
+# Print the number of letters in your name
+
+>>>>>>> 3a039b1459d1986c4b5a0b14db8e4ec5f00df399
 
 print(name.length);
 # Create a variable `now.doing` that is your named followed by "is programming!" to the end of your name
 # (use the `paste()` function)
+<<<<<<< HEAD
 now.doing <- paste(my.name, "is programming!", sep=" ");
 print(now.doing);
 # Make the `now.doing` variable upper case
 now.doing <- toupper(now.doing);
+=======
+
+
+# Make the `now.doing` variable upper case
+
+>>>>>>> 3a039b1459d1986c4b5a0b14db8e4ec5f00df399
 
 ### Bonus
 
